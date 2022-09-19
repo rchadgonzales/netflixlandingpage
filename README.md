@@ -1,4 +1,4 @@
-# Build a Netflix Landing Page Clone with HTML, CSS and JavaScript
+# Netflix Landing Page Clone with HTML, CSS and JavaScript
 
 This is the project from the [YouTube](https://www.youtube.com/watch?v=P7t13SGytRk).
 
